@@ -14,7 +14,6 @@ My main interests are data analysis, machine learning, and natural language proc
 * Pandas
 * NumPy
 
-
 **Machine Learning**
 
 * Scikit-learn
