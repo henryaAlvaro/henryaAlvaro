@@ -1,4 +1,4 @@
-# Hi, I'm Henri 👋
+# Hi, I'm Henri 
 
 **Aspiring Data Scientist | Machine Learning | Deep Learning | Data Analytics**
 
@@ -16,7 +16,7 @@ business recommendation.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages & Data**
 `Python` `SQL` `Pandas` `NumPy`
@@ -36,22 +36,22 @@ business recommendation.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🌽 [Corn Leaf Disease Classification (ConvNeXt)](ganti-link-repo-convnext)
+### [Corn Leaf Disease Classification (ConvNeXt)](ganti-link-repo-convnext)
 Built a deep learning model using the ConvNeXt architecture to classify
 corn leaf diseases from images. Performed image preprocessing (resizing,
 normalization) and trained/evaluated the model using accuracy as the
 main metric.
 `Python` `PyTorch/TensorFlow` `ConvNeXt` `Computer Vision`
 
-### 🛒 [E-Commerce Customer & Sales Analysis](https://github.com/henryaAlvaro/ecommerce-customer-sales-analysis)
+### [E-Commerce Customer & Sales Analysis](https://github.com/henryaAlvaro/ecommerce-customer-sales-analysis)
 End-to-end EDA on 3,000+ e-commerce transactions covering sales performance,
 regional and channel analysis, discount patterns, and customer behavior —
 translated into actionable business recommendations.
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
-### 👥 [Customer Segmentation using RFM & K-Means](https://github.com/henryaAlvaro/Segmentasi_Pelanggan_Clustring)
+### [Customer Segmentation using RFM & K-Means](https://github.com/henryaAlvaro/Segmentasi_Pelanggan_Clustring)
 Segmented 4,300+ customers from the Online Retail dataset using RFM
 (Recency, Frequency, Monetary) analysis and K-Means clustering, validated
 with Elbow Method and Silhouette Score, then translated into targeted
@@ -60,11 +60,11 @@ marketing strategies.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryaAlvaro&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaAlvaro&layout=compact)
 
 ---
 
-⭐️ Open to Data Scientist / Data Analyst opportunities
+Open to Data Scientist / Data Analyst opportunities
