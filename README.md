@@ -67,4 +67,3 @@ marketing strategies.
 
 ---
 
-Open to Data Scientist / Data Analyst opportunities
